@@ -124,7 +124,7 @@ The program will remove all excess/unnecessary data and only store the data esse
 
 # Screen Navigation (GUI Design)
 
-<img width="633" height="383" alt="image" src="https://github.com/user-attachments/assets/e21ce949-7a09-4737-b3aa-8e564c632b89" />
+<img width="695" height="341" alt="image" src="https://github.com/user-attachments/assets/33a513ad-0888-41c8-89c7-e52a8098ff4d" />
 
 
 ---
@@ -179,7 +179,3 @@ The program will remove all excess/unnecessary data and only store the data esse
 
 ## Display Screen (Tab 3)
 <img width="879" height="520" alt="image" src="https://github.com/user-attachments/assets/c6de13f8-b383-4237-8b3d-27acb40bce3b" />
-
-
-## Display Sheet (Tab 3)
-*(Placeholder for description of display tab)*
